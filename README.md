@@ -16,6 +16,14 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ## Usage Instructions
 
+Two Functions: 
+1. ask_for_input --> check if a valid single letter has been input.
+2. check_guess (guess) --> checks if the input single letter is within the random word picked by the computer from the predefined list of 5 fruits.
+
 ## File Structure of the Project
+main repo - hangman857
+python scripts:
+1. milestone_2.py --> initial code for data input
+2. milestone_3.py --> draft code with functions
 
 ## License Information
