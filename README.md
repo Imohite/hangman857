@@ -23,7 +23,8 @@ Two Functions:
 ## File Structure of the Project
 main repo - hangman857
 python scripts:
-1. milestone_2.py --> initial code for data input
-2. milestone_3.py --> draft code with functions
+1. milestone_2.py --> initial code for data input.
+2. milestone_3.py --> draft code with functions.
+3. milesone_4.py --> defines class and methods and updates existing functions into methods with new capabilities.
 
 ## License Information
