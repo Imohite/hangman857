@@ -26,5 +26,6 @@ python scripts:
 1. milestone_2.py --> initial code for data input.
 2. milestone_3.py --> draft code with functions.
 3. milesone_4.py --> defines class and methods and updates existing functions into methods with new capabilities.
+4. milestone_5.py --> brings everything together. Create a function play_game based on class Hangman to run the game developed.
 
 ## License Information
